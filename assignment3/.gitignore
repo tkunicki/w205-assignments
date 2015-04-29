@@ -1,0 +1,9 @@
+.idea/
+.ropeproject/
+*.iml
+
+*.pyc
+
+*.json
+*.db
+*.txt
